@@ -5,7 +5,7 @@ const App = () => {
   return (
     <div>
       <h1>¡Hola, José Félix! 🚀</h1>
-      <p>Tu app React ya está corriendo con Webpack y Babel.</p>
+      <p>Mi app React ya está corriendo con Webpack y Babel.</p>
     </div>
   );
 };
